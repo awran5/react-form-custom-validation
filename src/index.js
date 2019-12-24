@@ -162,7 +162,22 @@ function App() {
 					{' '}
 					GK STYLE{' '}
 				</a>
-				team.
+				team. -{' '}
+				<a
+					href="https://github.com/awran5/react-form-custom-validation"
+					title="GitHub"
+					rel="noopener noreferrer"
+				>
+					GitHub
+				</a>{' '}
+				-{' '}
+				<a
+					href="https://github.com/awran5/react-form-custom-validation/issues"
+					title="Issues Tracker"
+					rel="noopener noreferrer"
+				>
+					Issues
+				</a>
 			</div>
 		</div>
 	)
